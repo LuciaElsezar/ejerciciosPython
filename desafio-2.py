@@ -6,6 +6,8 @@
 #Escriba un programa que reciba como entrada las posiciones en el tablero de un alfil y de
 #una torre, e indique cuál pieza captura a la otra:
 
+# ---- > Aún sin finalizar
+
 def declararUbicaciones():
     columnaAlfil = int(input('Escriba en qué columna se encuentra el alfil: '))
     filaAlfil = int(input('Escriba en qué fila se encuentra el alfil: '))
